@@ -4,11 +4,8 @@
   <artifactId>spigotmetadataapi</artifactId>
   <versioning>
     <versions>
-      <version>3.0-SNAPSHOT</version>
-    </versions>
-    <versions>
       <version>4.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20200708123015</lastUpdated>
+    <lastUpdated>20200921171215</lastUpdated>
   </versioning>
 </metadata>
